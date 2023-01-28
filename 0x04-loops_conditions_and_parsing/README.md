@@ -25,20 +25,20 @@ What you should learn from this project:
 * Read for this task:
 
 
-### [1. For Best School loop](./1-for_holberton_school)
-* Write a Bash script that displays Best School 10 times.
+### [1. For Holberton School loop](./1-for_holberton_school)
+* Write a Bash script that displays Holberton School 10 times.
 
 
-### [2. While Best School loop](./2-while_holberton_school)
-* Write a Bash script that displays Best School 10 times.
+### [2. While Holberton School loop](./2-while_holberton_school)
+* Write a Bash script that displays Holberton School 10 times.
 
 
-### [3. Until Best School loop](./3-until_holberton_school)
-* Write a Bash script that displays Best School 10 times.
+### [3. Until Holberton School loop](./3-until_holberton_school)
+* Write a Bash script that displays Holberton School 10 times.
 
 
 ### [4. If 9, say Hi!](./4-if_9_say_hi)
-* Write a Bash script that displays Best School 10 times, but for the 9th iteration, displays Holberton School and then Hi on a new line.
+* Write a Bash script that displays Holberton School 10 times, but for the 9th iteration, displays Holberton School and then Hi on a new line.
 
 
 ### [5. 4 bad luck, 8 is your chance](./5-4_bad_luck_8_is_your_chance)
@@ -58,15 +58,29 @@ What you should learn from this project:
 
 
 ### [9. To file, or not to file](./9-to_file_or_not_to_file)
-* Write a Bash script that gives you information about the school file.
+* Write a Bash script that gives you information about the holbertonschool file.
 
 
 ### [10. FizzBuzz](./10-fizzbuzz)
 * Write a Bash script that displays numbers from 1 to 100.
 
+
+### [11. Read and cut](./100-read_and_cut)
+* help: read
+
+
+### [12. Tell the story of passwd](./101-tell_the_story_of_passwd)
+* 
+
+
+### [13. Let's parse Apache logs](./102-lets_parse_apache_logs)
+* 
+
+
+### [14. Dig the data](./103-dig_the-data)
+* Now that you’ve parsed the Apache log file, let’s sort the data so you can get a better idea of what is going on.
+
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
-
-
+* **Peyton Smith** - [peytonbrsmith](https://github.com/peytonbrsmith)

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# infinity loop
-while :
-do
-	echo "To infinity and beyond"
-	sleep 2
+# Buzz Lightyear - displays message infinitely and sleeps 2s after
+# each iteration
+while true; do
+    echo To infinity and beyond
+    sleep 2
 done
