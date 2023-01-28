@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
-# Uses while loop to print 12 hour "clock"
-h=0
-while [ $h -lt 13 ]
+#Creating a script that uses a nested loop
+hour=0
+while [ $hour -le 12 ]
 do
-    echo "Hour:" $h
-    m=1
-    while [ $m -lt 60 ]
+    echo "Hour: $hour"
+    minutes=1
+    while [ $minutes -lt 60 ]
     do
-        echo $m
-        m=$(( m + 1 ))
+	echo "$minutes"
+	((minutes++))
     done
-    h=$(( h + 1 ))
+    ((hour++))
 done

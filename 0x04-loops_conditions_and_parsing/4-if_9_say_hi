@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
-# Uses while loop to print Holberton school 10 times
-# and has if statement
-x=0
-while [ $x -lt 10 ]
+#Creating a script that uses an if statement
+x=1
+while [ $x -le 10 ]
 do
     echo "Holberton School"
-    if [[ $x -eq 8 ]]; then
-        echo "Hi"
+    if [ $x -eq 9 ]
+    then
+	echo "Hi"
     fi
-    x=$(( x + 1 ))
+    ((x++))
 done

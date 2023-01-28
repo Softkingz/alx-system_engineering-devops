@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-# Uses until loop to print Holberton school 10 times
+#Creating a script that uses an until loop
 x=0
-until [ $x -eq 10 ]
+until [ $x -gt 9 ]
 do
-    echo "Holberton School"
-    x=$(( x + 1 ))
+	echo "Holberton School"
+	((x++))
 done
