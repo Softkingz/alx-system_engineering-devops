@@ -1,5 +1,5 @@
 Host alx
-    Hostname 54.237.52.200
+    Hostname 54.174.46.80
     user ubuntu
     IdentityFile ~/.ssh/school
 
