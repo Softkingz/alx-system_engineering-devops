@@ -26,7 +26,7 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 #### Author 💻:
 
-* __Olayeye Ayomide__ <[muideen7](https://github.com/muideen7)>
+* __Chinedu Nwagbara__ <[Softkingz](https://github.com/Softkingz)>
 
 ## Acknowledgements :pray:
 
